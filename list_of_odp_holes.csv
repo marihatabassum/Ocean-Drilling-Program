@@ -1,0 +1,17 @@
+Leg_or_Expedition,Site,Hole,Start_Date ,End_Date,Region,Latitude,Longitude,Water_Depth_m,Number_of_cores,Core_Depth_m ,Program ,Core_Repository,Age_of_Oldest_Sediment ,Basement,Drilled_m,Penetration
+116,717,A,10-Jul-87,10-Jul-87,Bengal Fan,0.92972222,81.39027778,4734.7,1,9.64,ODP,KCC,Quaternary,micaceous silts and calcareous clays ,0,9.5
+116,,B,10-Jul-87,10-Jul-87,Bengal Fan,0.92972222,81.39027778,4734.7,2,13.43,ODP,KCC,Late Quaternary, micaceous silts and calcareous clays ,0,13.5
+116,,C,10-Jul-87,19-Jul-87,Bengal Fan,0.92972222,81.39027778,4734.7,91,480.52,ODP,KCC,Late Miocene, silt and silt mud turbidites,0,828.2
+116,718,A,20-Jul-87,20-Jul-87,"Central Indian Ocean, Approx. 800km south of Sri Lanka & 200km nortrhwest of the Afanasy nikitin seamount group, Distal end of Bengal Fan",1.02083333,81.40111111,4730.2,1,9.42,ODP,KCC,Late Quaternary,micaceous silts and calcareous clays,0,9.5
+116,,B,20-Jul-87,20-Jul-87,"Central Indian Ocean, Approx.800km south of Sri Lanka & 200km northwest of the Afanasy Nikitin seamount group, Distal end of Bengal fan",1.02083333,81.40111111,4730.2,1,9.26,ODP,KCC,Late Quaternary,micaceous silts and calcareous clays ,0,9.5
+116,,C,20-Jul-87,1-Aug-87,"Central Indian Ocean, Approx. 800km south of Sri Lanka & 200km nortrhwest of the Afanasy nikitin seamount group, Distal end of Bengal Fan",1.02083333,81.40111111,4730.2,98,274.05,ODP,KCC,Early Miocene,silt and silt mud turbidites ,0,935
+116,,D,2-Aug-87,3-Aug-87,"Central Indian Ocean, Approx. 800km south of Sri Lanka & 200km nortrhwest of the Afanasy nikitin seamount group, Distal end of Bengal Fan",1.02083333,81.40111111,4730.2,2,0.17,ODP,KCC,Quaternary, silt and silt mud turbidites ,0,90
+116,,E,9-Aug-87,17-Aug-87,"Central Indian Ocean, Approx. 800km south of Sri Lanka & 200km nortrhwest of the Afanasy nikitin seamount group, Distal end of Bengal Fan",1.02083333,81.40111111,4730.2,3,9.92,ODP,KCC,Early Miocene,silt and mud and massive mud ,0,961.6
+116,719,A,2-Aug-87,6-Aug-87,"Central Indian Ocean, Approx. 800km south of Sri Lanka & 200km nortrhwest of the Afanasy nikitin seamount group, Distal end of Bengal Fan",0.96083333,81.39944444,4736.8,49,185.53,ODP,KCC,Late Miocene, silty and silty mud turbidites,0,460.2
+116,,B,6-Aug-87,9-Aug-87,"Central Indian Ocean, Approx. 800km south of Sri Lanka & 200km nortrhwest of the Afanasy nikitin seamount group, Distal end of Bengal Fan",0.96083333,81.39944444,4736.8,0,0,ODP,KCC,None,None,465.6,465.9
+121,758,A,12-Jun-88,24-Jun-88,"Southeast side of Ninetyeast Ridge, Between the equator and 10°N",5.38416667,90.36138889,2923.6,73,453.83,ODP,KCC,"Earliest age: Santonian, Latest age: early Campanian", slightly Plagioclase phyric to aphyric basalt ,0,676.8
+121,,B,15-Jun-88,15-Jun-88,"Southeast side of Ninetyeast Ridge, Between the equator and 10°N",5.38388889,90.36111111,2925.6,10,98.68,ODP,KCC,Earliest age: Late Miocene, nannofossil ooze with clay and foraminifers ,0,96
+121,,C,15-Jun-88,15-Jun-88,"Southeast side of Ninetyeast Ridge, Between the equator and 10°N",5.38416667,90.36111111,2922.2,1,9.4,ODP,KCC,Pleistocene, clayey nannofossil ooze with foraminifers ,0,9.4
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,, ,,,,,,,,,

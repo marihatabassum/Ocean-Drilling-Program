@@ -1,0 +1,17 @@
+Leg_or_Expedition,Site,Hole,Start_Date,End_Date,Region,Latitude,Longitude,Water_Depth_m,Number_of_cores,Core_Depth_m,Program,Core_Reposiory,Age_of_Oldest_Sediment,Basement,Drilled_m,Penetration_m
+22,213,*,4-Feb-72,6-Feb-72,"Wharton Basin, East of Ninetyeast ridge",10.21194444,93.89611111,5611,19,145.45,DSDP,KCC,upper Paleocene,Basalt,0,172.5
+22,,A,6-Feb-72,6-Feb-72,"Wharton Basin, East of Ninetyeast ridge",10.21194444,93.89611111,5611,3,24.5,DSDP,KCC,Upper Paleocene,Basalt,113.5,141
+22,214,*,8-Feb-72,13-Feb-72,The crest of Nnetyeast Ridge,11.33694444,88.73,1665,54,345.85,DSDP,KCC,Paleocene,Vesicular basalt,2.5,500
+22,215,*,13-Feb-72,15-Feb-72,"Central Indian Ocean, West of Ninetyeast Ridge",8.12166667,86.79166667,5319,20,116.01,DSDP,KCC,Mid-Paleocene,Basalt,0,175
+22,216,*,18-Feb-72,21-Feb-72,The crest of Nnetyeast Ridge near the equator,1.46222222,90.20805556,2247,38,169.2,DSDP,KCC,Maastrichtian,Basalt,0,477.5
+22,,A,21-Feb-72,21-Feb-72,The crest of Ninetyeast Ridge near the equator,1.46222222,90.20805556,2247,6,53.4,DSDP,KCC,Middle Miocene,Basalt,101.5,158.5
+22,217,*,24-Feb-72,27-Feb-72,Eastern flank of Ninetyeast Ridge ,8.92611111,90.53888889,3020,37,182.4,DSDP,KCC,Campanian,Not reached,269,614.5
+22,,A,27-Feb-72,29-Feb-72,Eastern flank of Ninetyeast Ridge ,8.92611111,90.53888889,3020,17,41.3,DSDP,KCC,Campanian,Not reached,502,663.5
+22,218,*,1-Mar-72,4-Mar-72,Central Bengal Fan,8.00694444,86.28277778,3759,27,59,DSDP,KCC,Middle Miocene,Not reached,522,773
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,, ,,,,,,,,,,

@@ -1,0 +1,45 @@
+Leg_or_Expedition,Site,Holes,Start_Date,End_Date,Region,Latitude,Longitude,Water_Depth,Drilled_Interval_m ,Number_of_cores,Core_Depth_m ,Program,Core_Repository
+353,U1443,A,8-Dec-14,10-Dec-14,The crest of Ninetyeast Ridge,5.38333333,90.36194444,2929.4,,48,326.8,IODP,KCC
+,,B,10-Dec-14,12-Dec-14,The crest of Ninetyeast Ridge,5.38361111,90.36194444,2924.8,,40,308.51,IODP,KCC
+,,C,13-Dec-14,14-Dec-14,The crest of Ninetyeast Ridge,5.38333333,90.36166667,2924.7,1.5,28,182.87,IODP,KCC
+,,D,14-Dec-14,14-Dec-14,The crest of Ninetyeast Ridge,5.38333333,90.36166667,2924.6,,2,7.48,IODP,KCC
+,U1444,A,24-Dec-14,26-Dec-14,Western part of the Bengal Fan,14,84.82916667,3131.7,,37,226.05,IODP,KCC
+,,B,27-Dec-14,27-Dec-14,Western part of the Bengal Fan,14,84.82916667,3131.8,47.5,9,74.16,IODP,KCC
+,U1445,A,1-Jan-15,5-Jan-15,"Near the southern end of the Mahanadi basin, on the eastern margin of India",17.74527778,84.7875,2502.3,,77,666.4,IODP,KCC
+,,B,7-Jan-15,7-Jan-15,"Near the southern end of the Mahanadi basin, on the eastern margin of India",17.74527778,84.7875,2503.6,,4,33.36,IODP,KCC
+,,C,7-Jan-15,9-Jan-15,"Near the southern end of the Mahanadi basin, on the eastern margin of India",17.74527778,84.78722222,2502.6,,36,305.6,IODP,KCC
+,U1446,A,10-Jan-15,11-Jan-15,Mahanadi offshore basin on the eastern margin of India,19.08361111,85.735,1430.2,,21,186.63,IODP,KCC
+,,B,11-Jan-15,11-Jan-15,Mahanadi offshore basin on the eastern margin of India,19.08361111,85.73472222,1429.4,,3,27.2,IODP,KCC
+,,C,11-Jan-15,12-Jan-15,Mahanadi offshore basin on the eastern margin of India,19.08361111,85.73472222,1430,,23,180.75,IODP,KCC
+,U1447,A,15-Jan-15,20-Jan-15,~45km offshore little Andaman Island,10.79027778,93,1390.9,,88,732.96,IODP,KCC
+,,B,20-Jan-15,20-Jan-15,~45km offshore little Andaman Island,10.79,93,1391.8,,3,24.26,IODP,KCC
+,,C,20-Jan-15,21-Jan-15,~45km offshore little Andaman Island,10.79,93.00027778,1392.3,2,17,158.32,IODP,KCC
+,U1448,A,21-Jan-15,23-Jan-15,~44km offshore little Andaman Island,10.63388889,93,1098.3,,60,434.82,IODP,KCC
+,,B,23-Jan-15,24-Jan-15,~44km offshore little Andaman Island,10.63361111,93,1096.5,1.5,57,369.38,IODP,KCC
+,,C,25-Jan-15,25-Jan-15,~44km offshore little Andaman Island,10.63472222,93.00027778,1096.8,,4,34.77,IODP,KCC
+354,U1449,A,7-Feb-15,9-Feb-15,Middle Bengal Fan at 8°N,8.00694444,88.11,3652.7,1,37,129.38,IODP,KCC
+,,B,10-Feb-15,10-Feb-15,Middle Bengal Fan at 8°N,8.00694444,88.11027778,3651.9,,1,7.91,IODP,KCC
+,U1450,A,10-Feb-15,16-Feb-15,The east-west transect across the Bengal fan at 8°N,8.00055556,87.67083333,3655.3,242.7,86,282.73,IODP,KCC
+,,B,9-Mar-15,10-Mar-15,The east-west transect across the Bengal fan at 8°N,8.00694444,87.67111111,3655.4,608,21,46.66,IODP,KCC
+,U1451,A,17-Feb-15,21-Feb-15,The easternmost site of the Bengal Fan at 8°N,8.00694444,88.74166667,3607.3,187.2,72,337.8,IODP,KCC
+,,B,25-Feb-15,6-Mar-15,The easternmost site of the Bengbl Fan at 8°N,8.00694444,88.74138889,3607.2,553.7,70,180.86,IODP,KCC
+,U1452,A,12-Mar-15,12-Mar-15,Middle Bengal Fan,8.00694444,87.18166667,3670.5,,1,8.03,IODP,KCC
+,,B,12-Mar-15,13-Mar-15,Middle Bengal Fan,8.00694444,87.18194444,3670.3,43.2,34,138.21,IODP,KCC
+,,C,13-Mar-15,14-Mar-15,Middle Bengal Fan,8.00694444,87.18194444,3671.5,,6,33.43,IODP,KCC
+,U1453,A,15-Mar-15,17-Mar-15,Middle Bengal Fan,8.00694444,86.79833333,3679.5,29,37,164.78,IODP,KCC
+,U1454,A,18-Mar-15,18-Mar-15,The westernmost site of the Bengal Fan,8.00694444,85.84972222,3709.9,,1,7.54,IODP,KCC
+,,B,18-Mar-15,20-Mar-15,The westernmost site of the Bengal Fan,8.00694444,85.85,3710.3,14.4,29,129.51,IODP,KCC
+,,C,20-Mar-15,20-Mar-15,The westernmost site of the Bengal Fan,8.00638889,85.85,3710.3,,6,30.16,IODP,KCC
+,,D,20-Mar-15,20-Mar-15,The westernmost site of the Bengal Fan,8.00666667,85.1,3710.7,,5,24.46,IODP,KCC
+,U1455,A,21-Mar-15,21-Mar-15,Central Bengal Fan,8.00694444,86.28333333,3732.5,,1,0.9,IODP,KCC
+,,B,21-Mar-15,21-Mar-15,Central Bengal Fan,8.00694444,86.28361111,3733,,1,6.88,IODP,KCC
+,,C,21-Mar-15,28-Mar-15,Central Bengal Fan,8.00694444,86.28361111,3732.5,598.3,60,198,IODP,KCC
+362,U1480,A,12-Aug-16,12-Aug-16,"On the Indian Oceanic Plate, east of the Ninetyeast Ridge & west of the North Sumatran subduction margin",3.03416667,91.60583333,4147.5,,1,5.94,IODP,KCC
+,,B,12-Aug-16,12-Aug-16,"On the Indian Oceanic Plate, east of the Ninetyeast Ridge & west of the North Sumatran subduction margin",3.03416667,91.60611111,4147.5,,1,9.95,IODP,KCC
+,,C,12-Aug-16,12-Aug-16,"On the Indian Oceanic Plate, east of the Ninetyeast Ridge & west of the North Sumatran subduction margin",3.03388889,91.60611111,4147.5,,1,9.68,IODP,KCC
+,,D,12-Aug-16,12-Aug-16,"On the Indian Oceanic Plate, east of the Ninetyeast Ridge & west of the North Sumatran subduction margin",3.03388889,91.60583333,4147.5,,1,9.91,IODP,KCC
+,,E,13-Aug-16,13-Aug-16,"On the Indian Oceanic Plate, east of the Ninetyeast Ridge & west of the North Sumatran subduction margin",3.03388889,91.60555556,4147.5,,12,97.64,IODP,KCC
+,,F,14-Aug-16,20-Aug-16,"On the Indian Oceanic Plate, east of the Ninetyeast Ridge & west of the North Sumatran subduction margin",3.03416667,91.60555556,4147.5,143,88,249.35,IODP,KCC
+,,G,24-Aug-16,4-Sep-16,"On the Indian Oceanic Plate, east of the Ninetyeast Ridge & west of the North Sumatran subduction margin",3.03416667,91.60555556,4147.5,759.6,72,329.16,IODP,KCC
+,,H,6-Sep-16,7-Sep-16,"On the Indian Oceanic Plate, east of the Ninetyeast Ridge & west of the North Sumatran subduction margin",3.03416667,91.60583333,4147.3,5,16,115.97,IODP,KCC
+,U1481,A,10-Sep-16,30-Sep-16,"On the Indian Oceanic Plate, east of the Ninetyeast Ridge & west of the North Sumatran subduction margin & 35km southeast of site 1480",2.75472222,91.75972222,4178.3,1149.7,38,219.8,IODP,KCC
